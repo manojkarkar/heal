@@ -1,0 +1,2338 @@
+@media (max-width: 2560px) {
+	.timelineShow .listInfo .listTextBox{margin-top: 8%;}
+	.timelineWrap:before,
+	.timelineWrap:after{left: -87px;}
+}
+@media (max-width: 1920px) {
+
+    .navbar-brand {margin-left: 40px;}
+    .timelineCotentWRap .listTextBox { margin-left: -51%; margin-top: 45%;}
+	
+
+}
+
+/*CSS BY JAYESH START*/
+@media only screen and (max-width: 1500px) and (min-width: 1400px) {
+    .timelineShow .listInfo .listTextBox {margin-left: 28px;}
+	
+    /*h1 {
+        font-size: 72px;
+    }
+
+    h2 {
+        font-size: 52px;
+    }
+
+    h3 {
+        font-size: 32px;
+    }*/
+
+    .abotInfoBox {
+        max-width: 100%;
+        padding-right: 50px;
+    }
+
+    /*p {
+        font-size: 29px;
+        line-height: 1.7;
+    }
+    .bannerTextBox {
+        padding-bottom: 230px;
+    }
+
+    .btnBorder {
+        padding: 20px 35px;
+        font-size: 26px;
+    }*/
+
+    .f-list li, footer .pagesLinks h6 span, footer .pagesLinks a{ font-size: 16px;}
+    footer h6{ font-size: 16px;}
+    .global-menu__item{ font-size: 32px;}
+    .navbar-brand{ width: 170px;  margin-left: 25px;}
+    .owlSliderBox .owl-controls{ width: 100%;}
+    .owl-controlsl, .owl-pagination{ text-align: left;}
+
+}
+
+/*CSS BY JAYESH END*/
+
+@media (max-width: 1600px) {
+    .timelineShow .listInfo .listTextBox {
+        margin-left: 23px;
+    }
+    .tab-content .listInfo .listImgBox {
+        max-width: 550px;
+    }
+
+    #menu3 .listInfo .circlePoint {
+        left: 45%;
+    }
+
+
+
+    .tab-content .listInfo .listInfoBox {
+        padding-left: 40px;
+    }
+
+
+    .container1450 {padding: 0px 100px;}
+
+
+    .hrxCollection .textInfoBox {margin-right: 50px; margin-left: 85px;}
+    .textInfoBoxRight {margin-left: 60px !important; margin-right: 60px !important;}
+
+    .timeLineSection .container1650{transform: scale(0.9);}
+}
+
+
+
+
+@media (max-width: 1450px) {
+    .timelineShow .listInfo .listTextBox { margin-left: 60%; margin-top: -47%; padding:25px;}
+
+
+    .tab-content .listInfo .listInfoBox {
+        padding-left: 0px;
+    }
+
+    .tab-content .listInfo .listTextBox {
+        margin-left: -80px;
+    }
+
+    .tab-content .listInfo .listImgBox {
+        max-width: 500px;
+        height: 440px;
+    }
+
+    .listingTimeLine .nav-pills>li.active {
+        width: 45%;
+    }
+
+
+
+    #menu1 .listInfo .circlePoint {
+        left: 30%;
+    }
+
+    #menu2 .listInfo .circlePoint {
+        left: 40%;
+    }
+
+    #menu3 .listInfo .circlePoint {
+        left: 50%;
+    }
+    #menu4 .listInfo .circlePoint {
+        left: 61%;
+    }
+    #menu5 .listInfo .circlePoint {
+        left: 71%;
+    }
+
+
+
+    .listingTimeLine .nav-pills>li.active .circleTime:before {
+        width: 110px;
+        height: 110px;
+        transform: translate(-50%, -34%);
+    }
+
+
+
+    .listingTimeLine .nav-pills>li.active>a,
+    .listingTimeLine .nav-pills>li.active>a:focus,
+    .listingTimeLine .nav-pills>li.active>a:hover {
+        width: 135px;
+        height: 135px;
+        top: 10px;
+    }
+
+
+
+    .listingTimeLine .nav-pills>li.active>.timeLineDate {
+        width: 135px;
+    }
+
+    h1 {
+        font-size: 52px;
+        line-height: 68px;
+    }
+
+    h1.redLine:before {
+        bottom: 40px !important;
+    }
+
+
+}
+
+
+
+@media (max-width: 1366px) {
+
+    h1 {
+        font-size: 52px;
+        line-height: 68px;
+    }
+
+    h1.redLine:before {
+        bottom: 40px !important;
+    }
+
+    .bannerTextBox {
+        padding: 180px 15px 350px;
+    }
+
+
+
+    .canvasBox:before,
+
+    .canvasBox:after {
+        width: 150px;
+    }
+
+
+
+    .hrxWomen .redLine,
+
+    .hrxCollection .redLine,
+
+    h2.redLine,
+    h2.redLineRight {
+        margin-bottom: 30px;
+    }
+
+
+
+    p {
+        font-size: 17px;
+        line-height: 30px;
+    }
+
+
+
+
+
+    .otherProductImg {
+        max-width: 90%;
+        height: 400px;
+    }
+
+    .otherProductImg img {
+        height: -webkit-fill-available;
+    }
+
+    .otherProductInfo {
+        max-width: 90%;
+    }
+	
+.timelineTop {width: 110%;}
+.firstCircle .circleTime:before {width: 110px; height: 110px; transform: translate(-50%, -34%);}
+.firstCircle a, .firstCircle a:focus, .firstCircle a:hover{width: 135px; height: 135px; top: 10px;}
+.firstCircle .timeLineDate {width: 135px;}
+
+
+}
+
+
+
+@media (max-width: 1200px) {
+    .timeLineSection .container1650{transform: scale(1);}
+
+    h1 {
+        font-size: 42px;
+        line-height: 58px;
+    }
+
+    h1.redLine:before {
+        bottom: 32px !important;
+    }
+
+    h2 {
+        font-size: 34px;
+        letter-spacing: 6px;
+    }
+
+    .redLine:before {
+        bottom: 22px !important;
+    }
+
+    h3 {
+        font-size: 22px;
+        margin-bottom: 15px;
+    }
+
+
+
+    .bannerTextBox {
+        padding: 150px 15px 300px;
+    }
+
+
+
+    .aboutImgBox {
+        height: 400px;
+    }
+
+    .aboutImgBox img {
+        height: -webkit-fill-available;
+    }
+
+
+
+    .imgOverBox .textOverBox {
+        top: 140px;
+        max-width: 600px;
+    }
+
+    .imgOverBox .imgBox {
+        width: 600px;
+        height: 600px;
+    }
+
+    .imgOverBox .imgBox img {
+        height: -webkit-fill-available;
+    }
+
+
+
+    .hrxWomen .videoFramBox {
+        margin-top: 40px;
+    }
+
+    .hrxWomen .textInfoBox {
+        padding-left: 40px;
+    }
+
+    .videoFramBox {
+        height: 350px;
+    }
+
+    .playIcon {
+        width: 80px;
+    }
+
+
+
+    .hrxCollection {
+        padding: 150px 0px;
+    }
+
+    .sectionBlack {
+        padding: 150px 0px;
+    }
+
+
+
+    .footerLogo {
+        max-width: 160px;
+    }
+
+    .socialLinks li {
+        margin-right: 10px;
+    }
+
+
+
+    footer {
+        padding: 80px 0px 50px;
+    }
+
+    footer .col-lg-3 {
+        text-align: center;
+        margin-bottom: 50px;
+    }
+
+
+
+
+
+    .contactInfo .redLineRight:before {
+        bottom: 18px !important;
+    }
+
+
+
+    .contactMap iframe {
+        max-width: 100%;
+    }
+
+    .contactAddressInfo h4 {
+        font-size: 18px;
+    }
+
+
+
+    .textInfoBoxRight {
+        margin-left: 80px !important;
+    }
+
+    .redLineRight:before {
+        bottom: 30px !important;
+    }
+
+
+
+    .bigSlider {
+        position: relative;
+    }
+
+    .bigOwlSliderBox .owl-controls {
+        text-align: center;
+    }
+
+
+
+    .aboutPage {}
+
+    .aboutPage .imgOverBox .textOverBox {
+        top: 50px;
+    }
+
+    .aboutPage .imgOverBox .imgBox {
+        width: 530px;
+    }
+
+    .imgOverBox2 .textOverBox h2 {
+        margin-bottom: 30px;
+    }
+
+
+
+    .aboutPage {
+        padding-bottom: 0px;
+    }
+
+
+
+    .tab-content .listInfo .listImgBox {
+        max-width: 400px;
+    }
+
+
+
+
+
+    .listingTimeLine .nav-pills>li.active>a,
+    .listingTimeLine .nav-pills>li.active>a:focus,
+    .listingTimeLine .nav-pills>li.active>a:hover {
+        width: 115px;
+        height: 115px;
+        top: 20px;
+    }
+
+    .listingTimeLine .nav-pills>li.active .circleTime:before {
+        width: 90px;
+        height: 90px;
+        transform: translate(-50%, -30%);
+    }
+
+
+
+    #menu1 .listInfo .circlePoint {
+        left: 31%;
+    }
+
+    #menu2 .listInfo .circlePoint {
+        left: 44%;
+    }
+
+    #menu3 .listInfo .circlePoint {
+        left: 55%;
+    }
+
+
+
+    .tab-content .listInfo li:nth-child(2) .circlePoint {
+        margin-left: 65px;
+    }
+
+    .tab-content .listInfo li:nth-child(3) .circlePoint {
+        margin-left: 130px;
+    }
+
+
+
+    .redBorderLeft {
+        height: 223px;
+    }
+
+
+
+    .communityMenu .topMenuLinks li {
+        padding: 0px 15px;
+    }
+
+
+
+    .newsImgBox {
+        margin-bottom: 30px;
+    }
+
+
+
+    .latestFootballImgBox {
+        height: 300px;
+    }
+
+
+
+    .right2Box {
+        padding-left: 15px;
+    }
+
+.timeLineLeftText{margin-right: 0px; padding-left: 20px; padding-bottom: 50px;}
+.timeLineLeftText h2.redLine{margin-bottom: 0;}
+.timeLineLeftText h2.redLine:before{bottom: 32px !important; left: -20px; right: auto;}
+.timelineWrap:before, .timelineWrap:after{left: 0;}
+.timelineWrap:after{top: -158px; height: 235px;}
+
+.firstCircle a, .firstCircle a:focus, .firstCircle a:hover {width: 100px; height: 100px; top: 30px;}
+.firstCircle .circleTime:before {width: 75px; height: 75px; transform: translate(-50%, -25%);}
+
+.firstCircle {width: 46%; margin-left: 20px;}
+.firstCircle .timeLineDate {width: 100px; top: 0px;}
+
+.timelineCotentWRap .listInfo .circlePoint{left: 15%;}
+.timelineShow .listInfo .listTextBox {margin-left: 50%; margin-top: -37%; padding: 15px;}
+
+.birthDate{margin-bottom: 15px}
+
+}
+
+
+
+@media (max-width: 1024px) {
+
+    .content--demo-3 {display: block;}
+    .navbar-nav.navbar-right {display: none;}
+    .topNavBar { /*width: auto;*/}
+
+    .imgOverBox .imgBox {
+        width: 520px;
+        height: 520px;
+    }
+
+    .imgOverBox .textOverBox {
+        top: 110px;
+        max-width: 520px;
+    }
+
+
+
+    .videoFramBox {
+        height: 320px;
+    }
+
+
+
+    .hrxCollection .textInfoBox {
+        margin-right: 40px;
+    }
+
+
+
+    .btnBorder {
+        padding: 15px 25px;
+        letter-spacing: 4px;
+    }
+
+
+
+    .owlSliderBox .item {
+        margin-left: 40px;
+    }
+
+
+
+    .followUs .item {
+        padding: 25px 15px;
+    }
+
+
+
+    .textInfoBoxRight {
+        margin-left: 30px !important;
+        margin-right: 0px !important;
+    }
+
+
+
+    .otherProductImg {
+        height: 350px;
+    }
+
+
+
+    .bigSlider {
+        position: relative;
+    }
+
+
+
+    .aboutPage .imgOverBox .textOverBox {
+        top: 30px;
+    }
+
+    .imgOverBox2 .textOverBox h3 {
+        margin-bottom: 20px;
+    }
+
+
+
+    .aboutPage .imgOverBox .imgBox {
+        width: 460px;
+        height: 560px;
+    }
+
+
+
+    .partnersBox .col-lg-7 {
+        padding-right: 15px;
+    }
+
+
+
+    .timeLineLeftText h2 {
+        padding-top: 0px;
+    }
+
+    .timeLineLeftText {
+        padding-bottom: 60px;
+        padding-right: 20px;
+        margin-right: 0px;
+        position: relative;
+    }
+
+    .timeLineLeftText:before {
+        position: absolute;
+        width: 7px;
+        height: 122%;
+        top: 12px;
+        right: 13px;
+        content: '';
+        background: #c5252c;
+        opacity: 0.5;
+    }
+
+    .redBorderLeft {
+        display: none;
+    }
+
+
+
+    .tab-content .listInfo .circlePoint {
+        left: 150px;
+    }
+
+    #menu1 .listInfo .circlePoint {
+        left: 240px;
+    }
+
+    #menu2 .listInfo .circlePoint {
+        left: 330px;
+    }
+
+    #menu3 .listInfo .circlePoint {
+        left: 420px;
+    }
+
+
+
+    .timeLineSection {
+        padding: 120px 0px;
+    }
+
+
+
+    .getNewsBox h4 {
+        font-size: 20px;
+    }
+
+
+
+    .rowPopularPost .postTitle {
+        font-size: 15px;
+        letter-spacing: 0px;
+    }
+
+
+
+    .latestFootballImgBox {
+        height: 260px;
+    }
+
+    .item_inn.tranz.p-border {
+        width: 421px;
+    }
+    .col-sm-4.speciable {width: 33%; padding: 0 22px;}
+
+    h2.redLine.blogTitle {
+        font-size: 22px !important;
+        letter-spacing: 2px;
+        line-height: 20px !important;
+    }
+    h2.author_name {font-size: 18px;}
+
+    .col-sm-8.blogListSection { padding-left: 23px; }
+
+.timeLineLeftText:before{display: none;}
+
+.timelineWrap:after {top: -167px; height: 244px;}
+
+.timelineCotentWRap .listInfo .circlePoint {left: 17%;}
+.timelineCotentWRap .listInfo li:nth-child(2) .circlePoint {margin-left: 60px;}
+.timelineCotentWRap .listInfo li:nth-child(3) .circlePoint {margin-left: 120px;}
+
+}
+
+
+
+@media (max-width: 991px) {
+
+    .canvasBox:before,
+    .canvasBox:after {
+        width: 120px;
+    }
+
+    h1 {
+        font-size: 38px;
+        line-height: 52px;
+    }
+
+    h1.redLine:before {
+        bottom: 30px !important;
+    }
+
+
+
+    h2 {
+        font-size: 30px;
+        letter-spacing: 4px;
+    }
+
+    .redLine:before {
+        bottom: 20px !important;
+        height: 5px;
+    }
+
+    h3 {
+        font-size: 18px;
+        letter-spacing: 3px;
+    }
+
+
+
+    p {
+        font-size: 16px;
+        line-height: 28px;
+    }
+
+
+
+
+
+    .hrxWomen .textInfoBox {
+        padding-left: 0px;
+    }
+
+
+
+    .redLineRight:before {
+        height: 5px;
+    }
+
+
+
+    .contactHeroBg {
+        margin-bottom: 100px;
+    }
+
+
+
+    .collectionHeadInfo {
+        padding: 120px 0px;
+    }
+
+    .otherProductSet {
+        padding: 100px 0px;
+    }
+
+
+
+    .gymTrainerBox h4 {
+        font-size: 18px;
+    }
+
+    .gymTrainerBox .designation {
+        font-size: 13px;
+    }
+
+
+
+    .ourPartnersBox .col-sm-6 {
+        margin: 50px auto;
+    }
+
+
+
+    .communityMenu .topMenuLinks li {
+        padding: 0px 10px;
+    }
+
+
+
+    .latestFootballImgBox {
+        height: 280px;
+    }
+
+
+
+    .hrxCommunitiesPage .blackSection {
+        height: 450px;
+        background-size: cover;
+    }
+
+
+
+
+
+    .container1450 {
+        padding: 0px 15px;
+    }
+
+    .navbar-brand {
+        margin-left: 0px;
+    }
+
+    .hamburger {
+        right: 15px;
+    }
+
+.timelineWrap:after{width: 5px;}
+.timelineWrap:before{height: 5px; bottom: 73px;}
+.timelineCotentWRap .listInfo .circlePoint{top: -86px;}
+
+.secondCircle .circleTime:before {width: 40px; height: 40px; transform: translate(-50%, -17%);}
+.secondCircle .circleTime {width: 26px; height: 26px; margin-top: -12px;}
+.secondCircle .timeLineDate {top: 25px; width: 80%;}
+
+
+
+}
+
+
+
+@media (max-width: 840px) {
+.timelineTop {width: 100%;}
+
+.firstCircle .circleTime:before {width: 50px; height: 50px; transform: translate(-50%, -30%);}
+.firstCircle a, .firstCircle a:focus, .firstCircle a:hover {width: 65px; height: 65px;top: 47px;}
+.circleTime {width: 20px; height: 20px; margin-top: -10px; margin-left: -11px;}
+.firstCircle .timeLineDate {width: 65px;}
+.firstCircle {width: 45%; margin-left: 0; padding-left: 20px;}
+.secondCircle {width: 55%;}
+	
+.secondCircle .timeLineDate {width: 100%;}	
+
+.secondCircle a {width: 60px;}
+.timelineCotentWRap .listInfo .circlePoint:before {width: 30px; height: 30px;}
+.timelineCotentWRap .listInfo .circlePoint {width: 14px; height: 14px; top: -83px;}
+.timelineWrap:after {top: -192px; height: 274px;}
+
+.timelineCotentWRap .listInfo li:nth-child(2) .circlePoint {margin-left: 40px;}
+.timelineCotentWRap .listInfo li:nth-child(3) .circlePoint {margin-left: 80px;}
+
+.timelineShow .listInfo .listTextBox {margin-left: 0; margin-top: 0;}
+
+}
+@media (max-width: 800px) {
+
+    .owlSliderBox .owl-controls .owl-page span {
+        width: 8px;
+        height: 8px;
+        margin: 5px 4px;
+    }
+
+
+
+    .navbar-brand {
+        width: 100px;
+    }
+
+    /*.sticky {position: fixed; top: 0; width: 100%; background: #000;}
+
+.sticky + .content {padding-top: 60px;}*/
+
+
+
+
+
+    .imgOverBox .imgBox {
+        width: 420px;
+    }
+
+    .imgOverBox .textOverBox {
+        top: 100px;
+        max-width: 440px;
+    }
+
+
+
+    .headerHero,
+
+    .sectionBlack,
+
+    .hrxWomen,
+
+    .hrxCollection {
+        padding: 100px 0px;
+    }
+
+
+
+    .videoFramBox {
+        height: 260px;
+    }
+
+
+
+    .hrxCollection .textInfoBox {
+        margin-right: 20px;
+    }
+
+
+
+    .htxFcBg {
+        padding: 100px 0px;
+    }
+
+
+
+    .aboutPage .imgOverBox .imgBox {
+        width: 350px;
+    }
+
+
+
+    .aboutPage {
+        padding-bottom: 0px;
+    }
+
+
+
+    .ourPartnersBox .partnerImgBox {
+        height: 350px;
+    }
+
+    .ourPartnersBox .partnerImgBox img {
+        height: -webkit-fill-available;
+    }
+
+
+
+    .timeLineLeftText:before {
+        width: 4px;
+        right: 16px;
+    }
+
+    .tab-content .listInfo .listImgBox {
+        max-width: 380px;
+    }
+
+
+
+    .listingTimeLine .nav.nav-pills:before {
+        height: 4px;
+    }
+
+
+
+    .listingTimeLine .nav-pills>li.active .circleTime:before {
+        width: 70px;
+        height: 70px;
+        transform: translate(-50%, -33%);
+    }
+
+    /*.circleTime {
+        width: 24px;
+        height: 24px;
+        margin-top: -16px;
+        margin-left: -16px;
+    }*/
+
+    .circleTime:before {
+        width: 44px;
+        height: 44px;
+    }
+
+    .listingTimeLine .nav-pills>li.active>.timeLineDate {
+        width: 85px;
+    }
+
+    .listingTimeLine .nav.nav-pills a {
+        width: 70px;
+        height: 140px;
+    }
+
+    .listingTimeLine .nav-pills>li.active>a,
+    .listingTimeLine .nav-pills>li.active>a:focus,
+    .listingTimeLine .nav-pills>li.active>a:hover {
+        width: 85px;
+        height: 85px;
+        top: 0px;
+    }
+
+    .tab-content .listInfo .circlePoint {
+        width: 15px;
+        height: 15px;
+        top: -81px;
+    }
+
+
+
+    .tab-content .listInfo .circlePoint:before {
+        width: 32px;
+        height: 32px;
+    }
+
+
+
+    .listingTimeLine .nav-pills>li.active .circleTime {
+        margin-top: -12px;
+        margin-left: -12px;
+    }
+
+    .listingTimeLine .nav-pills>li.active {
+        top: 24px;
+    }
+
+
+
+    .tab-content .listInfo .circlePoint {
+        left: 110px;
+    }
+
+    .tab-content .listInfo li:nth-child(2) .circlePoint {
+        margin-left: 48px;
+    }
+
+    .tab-content .listInfo li:nth-child(3) .circlePoint {
+        margin-left: 95px;
+    }
+
+
+
+    #menu1 .listInfo .circlePoint {
+        left: 180px;
+    }
+
+    #menu2 .listInfo .circlePoint {
+        left: 250px;
+    }
+
+    #menu3 .listInfo .circlePoint {
+        left: 320px;
+    }
+
+
+
+    .tab-content .listInfo .listInfoBox {
+        padding-top: 50px;
+    }
+
+    .tab-content .listInfo .circlePoint:after {
+        height: 150px;
+    }
+
+.rightSideBar .redLineTitle:before{} 
+
+    .hrxCommunitiesMain h4.redLineTitle:before {
+        height: 4px;
+        top: 11px;
+    }
+	.popularPostBox h4.redLineTitle:before {
+		top: 12px;
+	}
+
+
+    .rightImgBox {
+        height: 180px;
+    }
+
+
+
+    .rightSideBar {
+        padding: 100px 20px 0px 0px;
+    }
+
+
+
+    .searchTop #wrap {
+        width: 40px;
+    }
+
+    .searchTop input[type="text"] {
+        padding-right: 50px;
+        font-size: 16px;
+    }
+
+    .searchTop input[type="text"]:focus {
+        width: 460px;
+    }
+
+    .searchTop input[type="submit"] {
+        background-size: 30px;
+    }
+
+
+
+}
+
+
+
+@media (max-width: 767px) {
+	
+	.owlSliderBox .item { position: relative;
+    margin-left: 70px !important;
+    left: -18px;
+    margin: 0 auto;
+}
+.timeLineSection {
+    padding: 0px;
+}
+	.hrxCollection .textInfoBox { margin-left: 0px;}
+	
+	.keepGoing {
+		bottom: 26% !important;
+	}
+
+    .abotInfoBox h2 {
+        display: inline-block;
+    }
+
+    .abotInfoBox {
+        max-width: 100%;
+        margin-bottom: 50px;
+    }
+
+    .aboutImgBox img {
+        width: 100%;
+    }
+
+    .content--demo-3 {display: block;}
+    .navbar-nav.navbar-right {display: none;}
+    .topNavBar {
+        width: auto;
+    }
+
+
+
+    .imgOverBox .textOverBox {
+        top: auto;
+        max-width: 100%;
+        position: relative;
+        left: 0;
+        padding-top: 50px;
+    }
+
+    .imgOverBox .imgBox {
+        width: 100%;
+    }
+
+
+
+    .videoFramBox {
+        height: 350px;
+    }
+
+
+
+    .divChange .mobileView {
+        margin-top: 40px;
+        width: 100%;
+        display: inline-block;
+    }
+
+    .mobileHide {
+        display: none;
+    }
+
+
+
+    .hrxCollection .textInfoBox {
+        margin-right: 0px;
+        max-width: 100%;
+        margin-bottom: 50px;
+    }
+
+
+
+    .owlSliderBox .owl-controls {
+        left: -7px;
+        width: 100%;
+        bottom: -50px;
+    }
+
+
+
+
+
+    .headerHero,
+    .sectionBlack,
+    .hrxWomen,
+    .hrxCollection {
+        padding: 100px 35px;
+    }
+
+    .navbar-brand {
+        margin-left: 30px;
+    }
+
+    .hamburger {
+        right: 20px;
+    }
+
+    .global-menu__item {
+        font-size: 18px;
+    }
+
+    .followUs {
+        padding: 0px 35px;
+    }
+
+    footer {
+        padding: 80px 35px 50px;
+    }
+
+
+
+
+
+    .contactHeroBg {
+        padding: 130px 35px 100px;
+    }
+
+
+
+    .textInfoBoxRight {
+        margin-left: 0px !important;
+    }
+
+    .leftSlider .owlSliderBox .item {
+        margin-left: 30px;
+        margin-right: 40px;
+    }
+
+    .leftSlider .owlSliderBox .owl-controls {
+        right: 0px;
+    }
+
+
+
+
+
+    .otherProductImg,
+
+    .otherProductInfo {
+        max-width: 100%;
+    }
+
+
+
+    .otherProductSet {
+        padding: 100px 35px;
+    }
+
+    .innerwearSet .imgBox {
+        height: 400px;
+        margin-bottom: 60px;
+    }
+
+    .innerwearSet .imgBox img {
+        height: -webkit-fill-available;
+    }
+
+
+
+    .gymTrainerBox {
+        margin-top: 50px;
+    }
+
+
+
+    .htxFcBg {
+        padding: 100px 35px;
+        margin-bottom: 100px;
+    }
+
+
+
+    .aboutPage .imgOverBox .textOverBox {
+        top: 0px;
+        margin-bottom: 40px;
+    }
+
+    .aboutPage .leftBox .textOverBox {
+        text-align: left;
+    }
+
+
+
+    .imgOverBox2 {
+        margin-bottom: 60px;
+    }
+
+    .aboutPage {
+        padding-bottom: 40px;
+    }
+
+    .aboutPage .imgOverBox .imgBox {
+        width: 100%;
+        margin: 0 auto;
+        max-width: 450px;
+    }
+
+
+
+    .ourPartnersBox .partnerImgBox {
+        max-width: 100%;
+    }
+
+
+
+    .tab-content .listInfo {
+        min-height: auto;
+        display: inline-block;
+    }
+
+    .tab-content .listInfo li {
+        position: relative;
+    }
+
+    .tab-content .listInfo .listImgBox {
+        max-width: 100%;
+    }
+
+    .tab-content .listInfo .listTextBox {
+        margin-left: 0;
+        margin-top: 50px;
+        max-width: 100%;
+    }
+
+
+
+    .brandDiv {
+        display: none;
+    }
+
+
+
+    .searchTop input[type="text"] {
+        font-size: 16px;
+    }
+
+    .searchTop input[type="text"]:focus {
+        width: 480px;
+    }
+
+    .communityMenu {
+        padding: 10px 15px;
+    }
+
+    .communityMenu .topMenuLinks {
+        text-align: center;
+    }
+
+    .searchTop input[type="submit"] {
+        width: 50px;
+        background-size: 25px;
+    }
+
+
+
+    .hrxCommunitiesMain {
+        padding: 90px 0px;
+    }
+
+
+
+
+
+    .box1 {
+        height: 450px;
+    }
+
+    .box3 {
+        height: 375px;
+    }
+
+
+
+    .joinCommunity {
+        padding: 40px 15px;
+    }
+
+    .joinCommunity .form-input {
+        font-size: 15px;
+        padding: 30px 15px 10px;
+    }
+
+    .joinCommunity .form-label {
+        font-size: 15px;
+        left: 15px;
+    }
+
+
+
+    .latestNewsList {
+        padding: 100px 30px 50px;
+    }
+
+    .newsRow {
+        margin: 15px 0px;
+    }
+
+    .newsRow .col-lg-5,
+    .newsRow col-lg-7 {
+        padding: 0px;
+    }
+
+
+
+    .rightSideBar {
+        border-left: 2px #181818 solid;
+        padding: 50px 30px 0px;
+    }
+
+    .rightImgBox {
+        height: 250px;
+        overflow: hidden;
+    }
+
+
+
+    .hrxCommunitiesPage .blackSection {
+        height: 400px;
+    }
+
+
+
+    .hrxCommunitiesHeader h3 {
+        margin-top: 14px;
+        font-size: 24px;
+    }
+
+    .col-sm-8.blogListSection {
+        padding: 25px;
+    }
+    .item_inn.tranz.p-border {
+        width: 100%;
+    }
+    .col-sm-4.speciable {
+        width: 100%;
+        padding: 0 25px;
+    }
+
+
+    h2.redLine.blogTitle {line-height: 10px !important;}
+
+.firstCircle {width: 40%;}
+.secondCircle {width: 60%;}
+
+.timeLineDate {font-size: 13px;}
+	
+.secondCircle a {width: 50px;}
+.joinCommunity .form-group {clear: both;}
+
+.clearBox{clear: both;}
+.birthDate .form-group .form-input {padding: 10px 20px 5px 0px;}
+h1.redLine:before {
+    bottom: 40px !important;
+}
+.redLineTitle span {
+	padding-bottom: 10px;
+}
+.collectionHeroBg {
+       background-size: cover !important;
+    background-position: right -240px center !important;
+}
+.contactHeroBg {background-position: left 30% center;}
+}
+
+@media (max-width: 640px) {
+
+
+
+    .imgOverBox .imgBox {
+        height: 400px;
+    }
+
+
+
+    .sliderFollowUsBox {
+        padding: 0px 10px;
+    }
+
+    .followUs .item {
+        padding: 15px 5px;
+    }
+
+
+
+    .footerLogo {
+        max-width: 120px;
+    }
+
+
+
+
+
+
+
+    .contactForm input {
+        font-size: 15px;
+    }
+
+    .contactMap iframe {
+        height: 360px;
+    }
+
+
+
+    .listingTimeLine .nav-pills>li.active {
+        width: 55%;
+    }
+
+
+
+    .communityMenu {
+        padding: 10px 0px;
+    }
+
+    .communityMenu .topMenuLinks li {
+        padding: 0px 4px;
+    }
+
+    .searchTop input[type="text"] {
+        padding-right: 45px;
+    }
+
+    .searchTop input[type="text"]:focus {
+        width: 400px;
+    }
+
+
+
+
+
+    .box1 {
+        height: 350px;
+    }
+
+    .box2 {
+        height: 250px;
+    }
+
+    .box3 {
+        height: 315px;
+    }
+
+
+
+    .joinCommunity .form-label {
+        font-size: 14px;
+    }
+
+    .joinCommunity {
+        padding: 40px 5px;
+    }
+
+    .joinCommunity .form-input {
+        font-size: 14px;
+    }
+
+    .joinCommunity .focused .form-label {
+        font-size: 12px;
+    }
+
+
+
+
+
+    .latestNewsList {
+        padding: 100px 20px 50px;
+    }
+
+    .rightSideBar {
+        border-left: 2px #181818 solid;
+        padding: 50px 20px 0px;
+    }
+
+
+
+    .descInfo p,
+
+    .newsInfoBox p {
+        font-size: 14px;
+        line-height: 24px;
+    }
+
+
+
+
+
+    .hrxCommunitiesPage .blackSection {
+        height: 350px;
+    }
+
+
+
+.secondCircle .circleTime {width: 18px; height: 18px; margin-top: -9px;}
+.secondCircle .circleTime:before {
+    width: 30px;
+	height: 30px;}
+
+.timelineCotentWRap .listInfo .circlePoint:before {
+    width: 24px;
+    height: 24px;
+}
+.timelineCotentWRap .listInfo .circlePoint {
+    width: 10px;
+    height: 10px;
+    top: -81px; left: 100px;
+}
+.timelineCotentWRap .listInfo li:nth-child(2) .circlePoint {
+    margin-left: 30px;
+}
+.timelineCotentWRap .listInfo li:nth-child(3) .circlePoint {
+    margin-left: 60px;
+}
+
+.firstCircle .timeLineDate {top: 20px;}
+.secondCircle .timeLineDate {
+	top: 35px;}
+
+.timelineShow .listInfo .listInfoBox {padding-top: 0px;}
+
+.timelineCotentWRap .listImgBox {max-width: 100%;
+    height: 350px;
+    text-align: center;
+}
+.timelineCotentWRap .listImgBox img{width: 100%;}
+
+
+}
+
+
+
+@media (max-width: 570px) {
+	.secondCircle a {width: 35px;}
+.firstCircle .circleTime:before {
+    width: 30px;
+    height: 30px;
+	transform: translate(-50%, -28%);}
+.firstCircle a, .firstCircle a:focus, .firstCircle a:hover {
+    width: 45px;
+    height: 45px;
+    top: 57px;
+}
+
+.timelineCotentWRap .listInfo .circlePoint {
+    left: 80px;
+}
+
+.circleTime {margin-top: -8px;     width: 12px;
+    height: 12px;
+    margin-left: -6px;}
+
+.secondCircle .circleTime {
+    width: 14px;
+    height: 14px;
+    margin-top: -6px;
+}
+.secondCircle .circleTime:before {
+    width: 22px;
+    height: 22px;
+}
+.timelineWrap:after {
+    top: -248px;
+    height: 326px;
+}
+
+
+.firstCircle {
+    width: 35%;
+}
+.secondCircle{width: 65%;}
+
+.firstCircle {padding-left: 10px;}
+
+
+.firstCircle .circleTime:before {
+    width: 20px;
+	height: 20px;}
+
+
+.firstCircle a{padding: 10px;}
+.firstCircle a, .firstCircle a:focus, .firstCircle a:hover {
+    width: 30px;
+	height: 30px;}
+
+.circleTime {
+    margin-top: -5px;
+    width: 8px;
+    height: 9px;
+    margin-left: -4px;
+}
+
+
+.secondCircle a {
+    width: 28px;
+}
+.secondCircle .circleTime {
+    width: 9px;
+    height: 9px;
+    margin-top: -4px;
+}
+.timelineCotentWRap .listInfo .circlePoint {
+    left: 50px;
+}
+
+.timelineCotentWRap .listInfo .circlePoint:before {
+    width: 16px;
+    height: 16px;
+}
+.timelineCotentWRap .listInfo .circlePoint {
+    width: 6px;
+    height: 6px;
+    top: -80px;
+}
+
+.secondCircle .circleTime:before {
+    width: 16px;
+    height: 16px;
+}
+
+.timeLineDate {
+    font-size: 10px;
+}
+.firstCircle .timeLineDate {
+    width: 32px;
+}
+
+.firstCircle a, .firstCircle a:focus, .firstCircle a:hover {top: 64px;
+}
+
+.timelineCotentWRap .listInfo li:nth-child(2) .circlePoint {
+    margin-left: 20px;
+}
+
+.timelineCotentWRap .listInfo li:nth-child(3) .circlePoint {
+    margin-left: 40px;
+}
+
+.timelineCotentWRap .listImgBox {height: auto;}
+	
+.firstCircle .timeLineDate,
+.secondCircle .timeLineDate {
+    top: 45px;
+}
+
+.timeLineLeftText {
+	padding-bottom: 0px;}
+	
+
+}
+@media (max-width: 480px) {
+
+    h1 {
+        font-size: 32px;
+        line-height: 48px;
+        letter-spacing: 6px;
+    }
+
+    h1.redLine:before {
+         
+		 bottom: 40px !important;
+    }
+
+
+
+    h2 {
+        font-size: 24px;
+    }
+
+    .redLine:before {
+        bottom: 15px !important;
+    }
+
+
+
+    .imgOverBox .imgBox {
+        height: 360px;
+    }
+
+
+
+
+
+    footer .col-full {
+        width: 100%;
+        text-align: center;
+        margin-bottom: 20px;
+    }
+
+
+
+    .col-full {
+        width: 100%;
+    }
+
+    .contactInfo .redLineRight:before {
+        bottom: 13px !important;
+    }
+
+
+
+    .redLineRight:before {
+        bottom: 30px !important;
+    }
+
+
+
+    .otherProductImg {
+        height: 260px;
+    }
+
+
+
+    .innerwearSet .imgBox {
+        height: 350px;
+    }
+
+
+
+    .gymTrainerBox h4 {
+        font-size: 15px;
+        letter-spacing: 2px;
+    }
+
+
+
+    .runCommunity .redLine:before {
+        top: 22px;
+    }
+
+
+
+    .aboutPage .imgOverBox .imgBox {
+        height: 470px;
+    }
+
+
+
+
+
+
+
+    .circleTime {
+        width: 15px;
+        height: 15px;
+        margin-left: -7px;
+    }
+
+    .listingTimeLine .nav-pills>li.active .circleTime:before {
+        width: 45px;
+        height: 45px;
+    }
+
+
+
+    .listingTimeLine .nav-pills>li.active>a,
+    .listingTimeLine .nav-pills>li.active>a:focus,
+    .listingTimeLine .nav-pills>li.active>a:hover {
+        width: 65px;
+        height: 65px;
+        top: 0px;
+    }
+
+
+
+    .listingTimeLine .nav-pills>li.active .circleTime {
+        margin-top: -7px;
+        margin-left: -8px;
+    }
+
+
+
+    .timeLineDate {
+        font-size: 12px;
+    }
+
+
+
+    .listingTimeLine .nav.nav-pills a {
+        width: 50px;
+        height: 132px;
+    }
+
+    .circleTime:before {
+        width: 32px;
+        height: 32px;
+        transform: translate(-50%, -24%);
+    }
+
+
+
+    .tab-content .listInfo .circlePoint {
+        width: 12px;
+        height: 12px;
+        left: 80px;
+    }
+
+    .tab-content .listInfo .circlePoint:before {
+        width: 26px;
+        height: 26px;
+    }
+
+    .tab-content .listInfo li:nth-child(2) .circlePoint {
+        margin-left: 38px;
+    }
+
+    .tab-content .listInfo li:nth-child(3) .circlePoint {
+        margin-left: 75px;
+    }
+
+
+
+    #menu1 .listInfo .circlePoint {
+        left: 130px;
+    }
+
+    #menu2 .listInfo .circlePoint {
+        left: 180px;
+    }
+
+    #menu3 .listInfo .circlePoint {
+        left: 230px;
+    }
+
+
+
+    .timeLineLeftText:before {
+        height: 119%;
+        top: 9px;
+    }
+
+
+
+    .tab-content .listInfo .listImgBox {
+        height: 300px;
+    }
+
+
+
+    .timeLineLeftText {
+        padding-right: 10px;
+    }
+
+    .timeLineLeftText:before {
+        right: 6px;
+    }
+
+
+
+    .bannerTextBox {
+        padding: 115px 15px 280px;
+    }
+
+
+
+    .box1 {
+        height: 250px;
+    }
+
+    .box2 {
+        height: 150px;
+    }
+
+    .box3 {
+        height: 215px;
+    }
+
+
+
+    .col480Full {
+        width: 100%;
+    }
+
+
+
+    .submitBtn {
+        min-width: 100%;
+        padding: 15px 20px;
+        font-size: 16px;
+    }
+
+
+
+.secondCircle a {width: 35px;}
+.firstCircle .circleTime:before {
+    width: 30px;
+    height: 30px;
+	transform: translate(-50%, -28%);}
+.firstCircle a, .firstCircle a:focus, .firstCircle a:hover {
+    width: 45px;
+    height: 45px;
+    top: 57px;
+}
+
+.timelineCotentWRap .listInfo .circlePoint {
+    left: 80px;
+}
+
+.circleTime {margin-top: -8px;     width: 12px;
+    height: 12px;
+    margin-left: -6px;}
+
+.secondCircle .circleTime {
+    width: 14px;
+    height: 14px;
+    margin-top: -6px;
+}
+.secondCircle .circleTime:before {
+    width: 22px;
+    height: 22px;
+}
+.timelineWrap:after {
+    top: -248px;
+    height: 326px;
+}
+
+
+.firstCircle {
+    width: 35%;
+}
+.secondCircle{width: 65%;}
+
+.firstCircle {padding-left: 10px;}
+
+
+.firstCircle .circleTime:before {
+    width: 20px;
+	height: 20px;}
+
+
+.firstCircle a{padding: 10px;}
+.firstCircle a, .firstCircle a:focus, .firstCircle a:hover {
+    width: 30px;
+	height: 30px;}
+
+.circleTime {
+    margin-top: -5px;
+    width: 8px;
+    height: 9px;
+    margin-left: -4px;
+}
+
+
+.secondCircle a {
+    width: 28px;
+}
+.secondCircle .circleTime {
+    width: 9px;
+    height: 9px;
+    margin-top: -4px;
+}
+.timelineCotentWRap .listInfo .circlePoint {
+    left: 50px;
+}
+
+.timelineCotentWRap .listInfo .circlePoint:before {
+    width: 16px;
+    height: 16px;
+}
+.timelineCotentWRap .listInfo .circlePoint {
+    width: 6px;
+    height: 6px;
+    top: -80px;
+}
+
+.secondCircle .circleTime:before {
+    width: 16px;
+    height: 16px;
+}
+
+.timeLineDate {
+    font-size: 10px;
+}
+.firstCircle .timeLineDate {
+    width: 32px;
+}
+
+.firstCircle a, .firstCircle a:focus, .firstCircle a:hover {top: 64px;
+}
+
+.timelineCotentWRap .listInfo li:nth-child(2) .circlePoint {
+    margin-left: 20px;
+}
+
+.timelineCotentWRap .listInfo li:nth-child(3) .circlePoint {
+    margin-left: 40px;
+}
+
+.timelineCotentWRap .listImgBox {height: auto;}
+	
+.firstCircle .timeLineDate,
+.secondCircle .timeLineDate {
+    top: 45px;
+}
+
+.timeLineLeftText {
+	padding-bottom: 0px;}
+
+
+
+
+}
+
+
+
+@media (max-width: 414px) {
+
+    .headerHero,
+    .sectionBlack,
+    .hrxWomen,
+    .hrxCollection {
+        padding: 100px 0px;
+    }
+
+    .navbar-brand {
+        margin-left: 0px;
+    }
+
+    .followUs {
+        padding: 0px;
+    }
+
+    .hamburger {
+        right: 0px;
+    }
+
+
+
+    .videoFramBox {
+        height: 260px;
+    }
+
+    .playIcon {
+        width: 70px;
+    }
+
+
+
+    .collectionSlider {
+        padding-right: 35px;
+		padding-left: 0px;
+    }
+
+    .owlSliderBox .owl-controls {
+        left: 10px;
+    }
+
+
+
+    .imgOverBox .imgBox {
+        height: 300px;
+    }
+
+
+
+
+
+    .textFadeIn {
+        line-height: 1;
+    }
+
+    .redLine:before {
+        bottom: 31px !important;
+    }
+
+    h1.redLine:before {
+        bottom: 41px !important;
+    }
+    h4.redLineTitle:before {
+    top: 24px;
+}
+    h1 {
+        font-size: 30px;
+        line-height: 46px;
+        letter-spacing: 4px;
+    }
+
+
+
+    .contactHeroBg {
+        padding: 130px 0px 100px;
+    }
+
+
+
+    .htxFcBg,
+
+    .otherProductSet {
+        padding: 100px 0px;
+    }
+
+
+
+    .ourPartnersBox .partnerImgBox {
+        height: 300px;
+    }
+
+
+
+    .listingTimeLine .nav-pills>li.active {
+        width: 52%;
+    }
+
+
+
+    .tab-content .listInfo li:nth-child(2) .circlePoint {
+        margin-left: 32px;
+    }
+
+    .tab-content .listInfo li:nth-child(3) .circlePoint {
+        margin-left: 65px;
+    }
+
+
+
+    .redSubInfo {
+        font-size: 13px;
+    }
+
+
+
+    .newsImgBox {
+        height: 260px;
+		overflow: hidden;
+    }
+
+
+}
+
+
+
+@media (max-width: 400px) {
+
+    .listingTimeLine .nav-pills>li.active>.timeLineDate,
+
+    .listingTimeLine .nav-pills>li.active,
+
+    .listingTimeLine .nav.nav-pills a {
+        width: 65px;
+    }
+
+    .tab-content .listInfo .circlePoint {
+        left: 0;
+        top: -10px;
+    }
+
+    #menu1 .listInfo .circlePoint {
+        left: 60px;
+    }
+
+    #menu2 .listInfo .circlePoint {
+        left: 125px;
+    }
+
+    #menu3 .listInfo .circlePoint {
+        left: 190px;
+    }
+
+
+
+    .tab-content .listInfo .listImgBox img {
+        height: -webkit-fill-available;
+    }
+
+    .tab-content .listInfo .listImgBox {
+        height: 260px;
+    }
+
+
+
+    .aboutPage .imgOverBox2 .textOverBox h2 {
+        white-space: normal;
+    }
+
+
+
+    .timeLineLeftText:before {
+        height: 115%;
+        top: 8px;
+    }
+
+
+
+
+
+    .communityMenu .topMenuLinks li a {
+        font-size: 11px;
+    }
+
+
+
+    .searchTop #wrap {
+        width: 30px;
+    }
+
+    .searchTop input[type="text"] {
+        padding-right: 25px;
+    }
+
+    .searchTop input[type="text"] {
+        font-size: 14px;
+    }
+
+    .searchTop input[type="text"]:focus {
+        width: 300px;
+    }
+
+    .searchTop input[type="submit"] {
+        width: 30px;
+        background-size: 16px;
+    }
+
+
+
+    .redSubInfo {
+        font-size: 12px;
+        letter-spacing: 0px;
+    }
+
+
+
+}
+
+
+
+@media (max-width: 335px) {
+
+
+
+    .communityMenu .topMenuLinks li {
+        padding: 0px 2px;
+    }
+
+    .searchTop input[type="text"]:focus {
+        width: 280px;
+    }
+
+.timelineCotentWRap .listInfo .circlePoint:before {width: 14px; height: 14px;}
+.timelineCotentWRap .listInfo .circlePoint {left: 46px;}
+.timelineCotentWRap .listInfo li:nth-child(2) .circlePoint {margin-left: 17px;}
+.timelineCotentWRap .listInfo li:nth-child(3) .circlePoint {margin-left: 34px;}
+
+
+}
