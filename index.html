@@ -23,12 +23,49 @@
       <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>
 
 <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/kenwheeler/slick@1.8.1/slick/slick.css"/>
+       <link rel="stylesheet" href="css/css/styles.css">
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+      <link rel="stylesheet" href="css/ie.css">
+    <![endif]-->
+    <script src="js/js/responsive-nav.js"></script>
+
+
 
 <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/kenwheeler/slick@1.8.1/slick/slick-theme.css"/>
-        
+        <style type="text/css">
+             img.logo-des {
+    width: 150px;
+}
+@media screen and (min-width: 40em){
+.nav-collapse {
+    float: left;
+    width: auto;
+}}
+@media screen and (max-width: 700px){
+  ul.headRight {
+    display: none;
+}}
+
+
+nav.nav-collapse.nav-collapse-0.closed {
+    float: left;
+}
+img.userPng {
+    border: 1px solid;
+    border-radius: 50%;
+    padding: 5px;
+}
+ul.headRight {
+    margin: 13px 70px;
+}
+.nav-collapse a:active, .nav-collapse a {
+    font-size: 20px;
+}
+        </style>
     </head>
     <body>
-        <header>
+        <!--<header>
             <div class="menuBar dsktop">
                 <div class="centreHold">
                     <a href="" class="logo">
@@ -43,7 +80,7 @@
                 </ul>
                 <a href="#" class="menu-icon"><i class="fa fa-bars"></i></a>
                 <ul class="headRight">
-                    <!--<li><form class="navbar-form" role="search">
+                    <li><form class="navbar-form" role="search">
     <div class="input-group add-on">
       <input class="form-control" placeholder="Finding Something" name="srch-term" id="srch-term" type="text">
       <div class="input-group-btn">
@@ -51,7 +88,7 @@
       </div>
     </div>
 </div>
-</form></li>-->
+</form></li>
                     <li><a href=""><img src="img/user.png" class="userPng" alt=""></a></li>
                         
                      <li><a href=""><img src="img/user.png" class="userPng" alt=""></a></li>
@@ -62,7 +99,31 @@
   </div>
     </ul>
 
-</header>
+</header>-->
+<header>
+      <a href="#home" class="logo" data-scroll class="logo">
+        <img src="img/heal.png" class="logo-des" alt="">
+    </a>
+      <nav class="nav-collapse">
+        <ul>
+          <li class="menu-item active"><a href="#" data-scroll>Home</a></li>
+          <li class="menu-item"><a href="#" data-scroll>About Us</a></li>
+          <li class="menu-item"><a href="#" data-scroll>Services</a></li>
+          <li class="menu-item"><a href="#" data-scroll>Packages</a></li>
+          <li class="menu-item"><a href="#" target="_blank">Contact us</a></li>
+        </ul>
+      </nav>
+      <ul class="headRight">
+        <li><a href=""><img src="img/user.png" class="userPng" alt=""></a></li>
+            
+         <li><a href=""><img src="img/user.png" class="userPng" alt=""></a></li>
+  </ul>
+</li>
+</ul>
+</div>
+</div>
+</ul>
+    </header>
             <section style=" margin: 0px auto;">
                 <div class="container12">
                         <div class="row">
@@ -405,6 +466,9 @@
         <script type="text/javascript" src="js/bootstrap.min.js"></script>
         <script type="text/javascript" src="js/owl.carousel.js"></script>
         <script type="text/javascript" src="js/tilt.jquery.js"></script>
+        <script src="js/js/fastclick.js"></script>
+    <script src="js/js/scroll.js"></script>
+    <script src="js/js/fixed-responsive-nav.js"></script>
         <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script> 
   <script type="text/javascript" src="https://code.jquery.com/jquery-1.11.0.min.js"></script>
 <script type="text/javascript" src="https://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
